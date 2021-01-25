@@ -51,8 +51,8 @@ See [this](https://www.youtube.com/watch?v=U8Zv25P1M6w) to know the definition o
 
 Before you start learning embedded systems you need to equip yourself in the following fields:
 
-1. Fundamentals of Electrical (V=IR & P=VI).
-2. Fundamentals of Analog Electronics (Ic =β*Ib).
+1. Fundamentals of Electrical.
+2. Fundamentals of Analog Electronics.
 
 ### [Introduction to Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm)
 This course provides an integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Some programming experience is good, but not necessarily required. The [Python Tutorial](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/python-tutorial/) is designed to get students up to speed with Python, while a course like [Python for Everybody](https://www.py4e.com/lessons) may be useful for students will little or no programming experience.
