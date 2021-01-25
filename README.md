@@ -55,7 +55,7 @@ Before you start learning embedded systems you need to equip yourself in the fol
 2. Fundamentals of Analog Electronics.
 
 ### [Introduction to Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm)
-This course provides an integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Some programming experience is good, but not necessarily required. The [Python Tutorial](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/python-tutorial/) is designed to get students up to speed with Python, while a course like [Python for Everybody](https://www.py4e.com/lessons) may be useful for students will little or no programming experience.
+This course provides an integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Some programming experience is good, but not necessarily required. The [Python Tutorial](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/python-tutorial/) is designed to get students up to speed with Python, while a course like [Python for Everybody](https://www.py4e.com/lessons) may be useful for students with little or no programming experience.
 
 **Topics covered**:
 `fundamental design principles of modularity and abstraction`
