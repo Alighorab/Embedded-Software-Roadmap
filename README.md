@@ -51,7 +51,7 @@ See [this](https://www.youtube.com/watch?v=U8Zv25P1M6w) to know the definition o
 
 Before you start learning embedded systems you need to equip yourself in the following fields:
 
-1. Fundamentals of Electrical.
+1. Fundamentals of Electrical Engineering.
 2. Fundamentals of Analog Electronics.
 
 ### [Introduction to Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm)
