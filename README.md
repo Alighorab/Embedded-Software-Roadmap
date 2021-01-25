@@ -34,7 +34,7 @@ See [this](https://www.youtube.com/watch?v=U8Zv25P1M6w) to know the definition o
 - [C Programming](#c-programming)
   - [C Basics](#c-basics)
   - [Advanced C](#advanced-c)
-- [Data Structures Algorithms](#data-structures-and-algorithms)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Microcontroller Interfacing](#microcontroller-interfacing)
   - [AVR](#avr)
   - [ARM Cortex](#arm-cortex)
