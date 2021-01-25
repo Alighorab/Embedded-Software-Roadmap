@@ -91,7 +91,7 @@ No prerequisites are required to start this course. This lecture series will cov
 You'll learn the same topics covered in the [Introduction to Computer Science and Programming in Python](#introduction-to-computer-science-and-programming-in-python) but in C. So, the goal here is to learn C syntax and then the structure of the language. You will need to setup an IDE to run C code on it, I highly recommend [CLion](https://www.jetbrains.com/clion/).
 
 ### [C Programming: A Modern Approach by K N King](https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504)
-Chapters 1 to 7 the basic topics in the language. Chapters 8 to 20 covers the strucuture of the language. You'll need to practice alot, so, start do programming projects from the book and outside it.
+Chapters 1 to 7 covers the basic topics in the language. Chapters 8 to 20 covers the strucuture of the language. You'll need to practice alot, so, start do programming projects from the book and outside it.
 
 **Topics covered**:
 `what is C`
