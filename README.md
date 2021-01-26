@@ -131,7 +131,7 @@ Here you'll gonna learn the basic data structures like: stacks, queues, lists, a
 ### [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 You'll find the course assignments [here](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures) and the book [here](https://drive.google.com/file/d/1kyp1kVFv3QIKyKJ7NawX93BjGy5Qmpt6/view?usp=sharing).
 
-Along with this course, take an [introduction to discrete mathematics](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S) to follow up with the lecturer. Discrete math is a MUST to understand the lectures from 15 to 21, so take it in parallel with data structures course.
+Along with this course, take an [introduction to discrete mathematics](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics) to follow up with the lecturer. Discrete math is a MUST to understand the lectures from 15 to 21, so take it in parallel with data structures course.
 
 **Topics covered**:
 `encapsulation and ADT`
