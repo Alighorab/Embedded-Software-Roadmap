@@ -67,16 +67,6 @@ This course provides an integrated introduction to electrical engineering and co
 `electronic circuits`
 `decision-making`
 
-
-### [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
-This course is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
-
-**Topics covered**:
-`computation`
-`imperative programming`
-`basic data structures and algorithms`
-`and more`
-
 ### [Analog Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
 No prerequisites are required to start this course. This lecture series will cover the entire syllabus of Analog Electronics, starting from semiconductor materials to power amplifiers. **You can stop at Chapter 05: DC Biasing of Transistors.** The goal here is to **PRACTICE**. So, buy components and start playing.
 
@@ -86,6 +76,15 @@ No prerequisites are required to start this course. This lecture series will cov
 `Diode Applications`
 `Bipolar Junction Transistors`
 `DC Biasing of Transistors`
+
+### [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
+This course is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
+
+**Topics covered**:
+`computation`
+`imperative programming`
+`basic data structures and algorithms`
+`and more`
 
 ## C Programming
 
