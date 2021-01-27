@@ -21,7 +21,9 @@ One of the more surprising developments of the last few decades has been the asc
 
 # What is an Embedded System?
 
-See [this](https://www.youtube.com/watch?v=U8Zv25P1M6w) to know the definition of embedded systems and [this](https://www.youtube.com/watch?v=KDs3qlvmcvY) for more details about the market and positions.
+Check those:
+- Hello, World! 5.00: [Embedded Talk | Ali Ghorab](https://www.youtube.com/watch?v=U8Zv25P1M6w&list=PLDyW0GpJbH0v4H2zOYHlIHVanDWOH2DsX&index=9)
+- CATvid-19: [CATvid- Embedded Roadmap | Hossam Adel](https://www.youtube.com/watch?v=KDs3qlvmcvY&list=PLDyW0GpJbH0tj3HQWj88e4dbVrizuKJXN&index=15)
 
 ---
 
