@@ -46,7 +46,7 @@ Check those:
 
 ## Prerequisites
 
-- [Micro-controller Interfacing](#microcontroller-interfacing) assumes the student has already taken a course on [digital logic](https://github.com/DrWaleedAYousef/Teaching/tree/master/DigitalDesign) and [computer organization](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu). If you don't have enough time, this [course](https://www.coursera.org/learn/build-a-computer) will be good for now.
+- [Micro-controller Interfacing](#microcontroller-interfacing) assumes the student has already taken a course on [digital logic](https://github.com/DrWaleedAYousef/Teaching/tree/master/DigitalDesign) and an [introduction to computer architecture](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu). If you don't have enough time, this [course](https://www.coursera.org/learn/build-a-computer) will be good for now.
 - [RTOS](#rtos) assumes the student has already taken a course on [operating systems](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 
 ## Intro Materials
